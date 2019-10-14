@@ -1,0 +1,8 @@
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\bin\Debug\HooksSys.exe.config
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\bin\Debug\HooksSys.exe
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\bin\Debug\HooksSys.pdb
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\obj\Debug\HooksSys.csprojResolveAssemblyReference.cache
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\obj\Debug\HooksSys.Properties.Resources.resources
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\obj\Debug\HooksSys.csproj.GenerateResource.Cache
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\obj\Debug\HooksSys.exe
+c:\users\jerome.ksigzkiewiez\documents\visual studio 2015\Projects\HooksSys\HooksSys\obj\Debug\HooksSys.pdb
